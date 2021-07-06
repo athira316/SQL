@@ -1,0 +1,1 @@
+UPDATE user SET name = 'athira' WHERE age = 23;

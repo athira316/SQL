@@ -1,0 +1,1 @@
+SELECT * FROM employee WHERE name='athira' NOT age=23;

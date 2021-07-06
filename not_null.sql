@@ -1,0 +1,1 @@
+SELECT employee FROM details WHERE age IS NULL;
